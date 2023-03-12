@@ -1,0 +1,5 @@
+.contactClass:hover{
+    box-shadow:0px 0px 5px grey;
+    width:600px;
+    background:gray
+}
